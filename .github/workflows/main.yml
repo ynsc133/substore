@@ -1,5 +1,3 @@
-on:
-  
 name: build
 on:
   push:
