@@ -5,7 +5,7 @@ on:
       name:
         description: 'Person to greet'
         required: true
-
+        default: 'World'
   push:
     branches:
       - master
